@@ -1,0 +1,6 @@
+## ACTIVIDAD 1
+*DECIMAL Y BINARIO*
+
+[imagen 1](./2d3d1d45-fd4d-44a1-abb5-883e8242ae76.jpg)
+
+*LETRA Y
