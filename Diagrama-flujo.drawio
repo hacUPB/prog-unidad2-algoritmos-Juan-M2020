@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Página-1" id="P_tE2Udu-_5AZJeGSBtf">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-12" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="khdJcBUxwDNr5nC8ZNId-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;INICIO&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="344" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-26" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="khdJcBUxwDNr5nC8ZNId-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-3" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;valor total&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="347" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-16" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-19" connectable="0" parent="khdJcBUxwDNr5nC8ZNId-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;no&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.029" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-17" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-18" connectable="0" parent="khdJcBUxwDNr5nC8ZNId-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;si&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0147" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;X&amp;gt;1000&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="126" x="341" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-13" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="khdJcBUxwDNr5nC8ZNId-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;lapices&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="344" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="khdJcBUxwDNr5nC8ZNId-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="670" />
+            </Array>
+            <mxPoint x="270" y="530" as="sourcePoint" />
+            <mxPoint x="270" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;85*X&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="224" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-24" edge="1" parent="1" source="khdJcBUxwDNr5nC8ZNId-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="khdJcBUxwDNr5nC8ZNId-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;95*x&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="khdJcBUxwDNr5nC8ZNId-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Fin&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="356" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
